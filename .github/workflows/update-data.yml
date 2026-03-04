@@ -1,0 +1,43 @@
+name: Update Economic Data
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"   # Every Monday at 01:00 UTC
+  workflow_dispatch:        # Allow manual runs from the Actions tab
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # Required to push the data commit
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch ABS datasets
+        run: python scripts/fetch_abs.py
+
+      - name: Fetch RBA datasets
+        run: python scripts/fetch_rba.py
+
+      - name: Build clean dataset
+        run: python scripts/build_dataset.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/raw/ data/clean/
+          git diff --cached --quiet || git commit -m "chore: update economic data [skip ci]"
+          git push
