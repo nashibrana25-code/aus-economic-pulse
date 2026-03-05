@@ -1,4 +1,26 @@
 date,indicator,value,unit,frequency,source
+2024-06-30,CPI,96.4,Index,Quarterly,ABS
+2024-06-30,CPI,96.17,Index,Quarterly,ABS
+2024-06-30,CPI,96.52,Index,Quarterly,ABS
+2024-09-30,CPI,96.77,Index,Quarterly,ABS
+2024-09-30,CPI,96.49,Index,Quarterly,ABS
+2024-09-30,CPI,96.54,Index,Quarterly,ABS
+2024-12-31,CPI,96.32,Index,Quarterly,ABS
+2024-12-31,CPI,96.68,Index,Quarterly,ABS
+2024-12-31,CPI,97.31,Index,Quarterly,ABS
+2025-03-31,CPI,97.58,Index,Quarterly,ABS
+2025-03-31,CPI,97.67,Index,Quarterly,ABS
+2025-03-31,CPI,97.96,Index,Quarterly,ABS
+2025-06-30,CPI,98.68,Index,Quarterly,ABS
+2025-06-30,CPI,98.2,Index,Quarterly,ABS
+2025-06-30,CPI,98.34,Index,Quarterly,ABS
+2025-09-30,CPI,99.63,Index,Quarterly,ABS
+2025-09-30,CPI,99.55,Index,Quarterly,ABS
+2025-09-30,CPI,100.0,Index,Quarterly,ABS
+2025-12-31,CPI,99.99,Index,Quarterly,ABS
+2025-12-31,CPI,100.01,Index,Quarterly,ABS
+2025-12-31,CPI,100.97,Index,Quarterly,ABS
+2026-03-31,CPI,101.33,Index,Quarterly,ABS
 1990-02-28,Cash Rate Target,-0.5,Percent,Monthly,RBA
 1990-08-31,Cash Rate Target,-1.0,Percent,Monthly,RBA
 1990-10-31,Cash Rate Target,-1.0,Percent,Monthly,RBA
@@ -93,3 +115,931 @@ date,indicator,value,unit,frequency,source
 2025-05-31,Cash Rate Target,-0.25,Percent,Monthly,RBA
 2025-08-31,Cash Rate Target,-0.25,Percent,Monthly,RBA
 2026-02-28,Cash Rate Target,0.25,Percent,Monthly,RBA
+1959-12-31,GDP,1.1,$ Million,Quarterly,ABS
+1960-03-31,GDP,1.3,$ Million,Quarterly,ABS
+1960-06-30,GDP,1.3,$ Million,Quarterly,ABS
+1960-09-30,GDP,0.9,$ Million,Quarterly,ABS
+1960-12-31,GDP,0.2,$ Million,Quarterly,ABS
+1961-03-31,GDP,-0.5,$ Million,Quarterly,ABS
+1961-06-30,GDP,-0.7,$ Million,Quarterly,ABS
+1961-09-30,GDP,-0.2,$ Million,Quarterly,ABS
+1961-12-31,GDP,1.1,$ Million,Quarterly,ABS
+1962-03-31,GDP,2.0,$ Million,Quarterly,ABS
+1962-06-30,GDP,1.9,$ Million,Quarterly,ABS
+1962-09-30,GDP,1.7,$ Million,Quarterly,ABS
+1962-12-31,GDP,1.3,$ Million,Quarterly,ABS
+1963-03-31,GDP,1.1,$ Million,Quarterly,ABS
+1963-06-30,GDP,1.5,$ Million,Quarterly,ABS
+1963-09-30,GDP,1.8,$ Million,Quarterly,ABS
+1963-12-31,GDP,1.9,$ Million,Quarterly,ABS
+1964-03-31,GDP,1.4,$ Million,Quarterly,ABS
+1964-06-30,GDP,1.2,$ Million,Quarterly,ABS
+1964-09-30,GDP,1.6,$ Million,Quarterly,ABS
+1964-12-31,GDP,1.9,$ Million,Quarterly,ABS
+1965-03-31,GDP,1.5,$ Million,Quarterly,ABS
+1965-06-30,GDP,1.0,$ Million,Quarterly,ABS
+1965-09-30,GDP,0.2,$ Million,Quarterly,ABS
+1965-12-31,GDP,-0.1,$ Million,Quarterly,ABS
+1966-03-31,GDP,0.4,$ Million,Quarterly,ABS
+1966-06-30,GDP,1.1,$ Million,Quarterly,ABS
+1966-09-30,GDP,2.0,$ Million,Quarterly,ABS
+1966-12-31,GDP,2.2,$ Million,Quarterly,ABS
+1967-03-31,GDP,1.9,$ Million,Quarterly,ABS
+1967-06-30,GDP,1.6,$ Million,Quarterly,ABS
+1967-09-30,GDP,0.9,$ Million,Quarterly,ABS
+1967-12-31,GDP,0.6,$ Million,Quarterly,ABS
+1968-03-31,GDP,1.0,$ Million,Quarterly,ABS
+1968-06-30,GDP,1.9,$ Million,Quarterly,ABS
+1968-09-30,GDP,2.5,$ Million,Quarterly,ABS
+1968-12-31,GDP,2.0,$ Million,Quarterly,ABS
+1969-03-31,GDP,1.2,$ Million,Quarterly,ABS
+1969-06-30,GDP,1.2,$ Million,Quarterly,ABS
+1969-09-30,GDP,1.7,$ Million,Quarterly,ABS
+1969-12-31,GDP,2.3,$ Million,Quarterly,ABS
+1970-03-31,GDP,2.1,$ Million,Quarterly,ABS
+1970-06-30,GDP,1.4,$ Million,Quarterly,ABS
+1970-09-30,GDP,0.7,$ Million,Quarterly,ABS
+1970-12-31,GDP,0.3,$ Million,Quarterly,ABS
+1971-03-31,GDP,0.8,$ Million,Quarterly,ABS
+1971-06-30,GDP,1.6,$ Million,Quarterly,ABS
+1971-09-30,GDP,1.1,$ Million,Quarterly,ABS
+1971-12-31,GDP,0.5,$ Million,Quarterly,ABS
+1972-03-31,GDP,0.1,$ Million,Quarterly,ABS
+1972-06-30,GDP,0.1,$ Million,Quarterly,ABS
+1972-09-30,GDP,0.8,$ Million,Quarterly,ABS
+1972-12-31,GDP,1.2,$ Million,Quarterly,ABS
+1973-03-31,GDP,1.2,$ Million,Quarterly,ABS
+1973-06-30,GDP,1.4,$ Million,Quarterly,ABS
+1973-09-30,GDP,1.4,$ Million,Quarterly,ABS
+1973-12-31,GDP,1.0,$ Million,Quarterly,ABS
+1974-03-31,GDP,0.2,$ Million,Quarterly,ABS
+1974-06-30,GDP,-0.4,$ Million,Quarterly,ABS
+1974-09-30,GDP,-0.4,$ Million,Quarterly,ABS
+1974-12-31,GDP,0.6,$ Million,Quarterly,ABS
+1975-03-31,GDP,1.3,$ Million,Quarterly,ABS
+1975-06-30,GDP,0.7,$ Million,Quarterly,ABS
+1975-09-30,GDP,0.3,$ Million,Quarterly,ABS
+1975-12-31,GDP,0.5,$ Million,Quarterly,ABS
+1976-03-31,GDP,1.2,$ Million,Quarterly,ABS
+1976-06-30,GDP,1.7,$ Million,Quarterly,ABS
+1976-09-30,GDP,0.9,$ Million,Quarterly,ABS
+1976-12-31,GDP,0.3,$ Million,Quarterly,ABS
+1977-03-31,GDP,0.5,$ Million,Quarterly,ABS
+1977-06-30,GDP,0.2,$ Million,Quarterly,ABS
+1977-09-30,GDP,0.1,$ Million,Quarterly,ABS
+1977-12-31,GDP,0.0,$ Million,Quarterly,ABS
+1978-03-31,GDP,0.4,$ Million,Quarterly,ABS
+1978-06-30,GDP,0.9,$ Million,Quarterly,ABS
+1978-09-30,GDP,1.4,$ Million,Quarterly,ABS
+1978-12-31,GDP,1.4,$ Million,Quarterly,ABS
+1979-03-31,GDP,0.9,$ Million,Quarterly,ABS
+1979-06-30,GDP,0.4,$ Million,Quarterly,ABS
+1979-09-30,GDP,0.6,$ Million,Quarterly,ABS
+1979-12-31,GDP,0.9,$ Million,Quarterly,ABS
+1980-03-31,GDP,0.9,$ Million,Quarterly,ABS
+1980-06-30,GDP,0.5,$ Million,Quarterly,ABS
+1980-09-30,GDP,0.6,$ Million,Quarterly,ABS
+1980-12-31,GDP,0.9,$ Million,Quarterly,ABS
+1981-03-31,GDP,1.3,$ Million,Quarterly,ABS
+1981-06-30,GDP,1.4,$ Million,Quarterly,ABS
+1981-09-30,GDP,1.0,$ Million,Quarterly,ABS
+1981-12-31,GDP,0.3,$ Million,Quarterly,ABS
+1982-03-31,GDP,-0.1,$ Million,Quarterly,ABS
+1982-06-30,GDP,-0.2,$ Million,Quarterly,ABS
+1982-09-30,GDP,-0.6,$ Million,Quarterly,ABS
+1982-12-31,GDP,-1.2,$ Million,Quarterly,ABS
+1983-03-31,GDP,-1.0,$ Million,Quarterly,ABS
+1983-06-30,GDP,0.3,$ Million,Quarterly,ABS
+1983-09-30,GDP,1.7,$ Million,Quarterly,ABS
+1983-12-31,GDP,2.3,$ Million,Quarterly,ABS
+1984-03-31,GDP,2.0,$ Million,Quarterly,ABS
+1984-06-30,GDP,1.3,$ Million,Quarterly,ABS
+1984-09-30,GDP,0.9,$ Million,Quarterly,ABS
+1984-12-31,GDP,0.9,$ Million,Quarterly,ABS
+1985-03-31,GDP,1.5,$ Million,Quarterly,ABS
+1985-06-30,GDP,1.7,$ Million,Quarterly,ABS
+1985-09-30,GDP,1.2,$ Million,Quarterly,ABS
+1985-12-31,GDP,0.5,$ Million,Quarterly,ABS
+1986-03-31,GDP,0.0,$ Million,Quarterly,ABS
+1986-06-30,GDP,0.2,$ Million,Quarterly,ABS
+1986-09-30,GDP,0.6,$ Million,Quarterly,ABS
+1986-12-31,GDP,1.0,$ Million,Quarterly,ABS
+1987-03-31,GDP,1.4,$ Million,Quarterly,ABS
+1987-06-30,GDP,1.7,$ Million,Quarterly,ABS
+1987-09-30,GDP,1.8,$ Million,Quarterly,ABS
+1987-12-31,GDP,1.5,$ Million,Quarterly,ABS
+1988-03-31,GDP,0.8,$ Million,Quarterly,ABS
+1988-06-30,GDP,0.5,$ Million,Quarterly,ABS
+1988-09-30,GDP,0.7,$ Million,Quarterly,ABS
+1988-12-31,GDP,1.2,$ Million,Quarterly,ABS
+1989-03-31,GDP,1.6,$ Million,Quarterly,ABS
+1989-06-30,GDP,1.4,$ Million,Quarterly,ABS
+1989-09-30,GDP,0.9,$ Million,Quarterly,ABS
+1989-12-31,GDP,0.5,$ Million,Quarterly,ABS
+1990-03-31,GDP,0.1,$ Million,Quarterly,ABS
+1990-06-30,GDP,0.2,$ Million,Quarterly,ABS
+1990-09-30,GDP,0.0,$ Million,Quarterly,ABS
+1990-12-31,GDP,-0.4,$ Million,Quarterly,ABS
+1991-03-31,GDP,-0.4,$ Million,Quarterly,ABS
+1991-06-30,GDP,-0.3,$ Million,Quarterly,ABS
+1991-09-30,GDP,0.0,$ Million,Quarterly,ABS
+1991-12-31,GDP,0.4,$ Million,Quarterly,ABS
+1992-03-31,GDP,0.5,$ Million,Quarterly,ABS
+1992-06-30,GDP,0.9,$ Million,Quarterly,ABS
+1992-09-30,GDP,1.3,$ Million,Quarterly,ABS
+1992-12-31,GDP,1.4,$ Million,Quarterly,ABS
+1993-03-31,GDP,1.0,$ Million,Quarterly,ABS
+1993-06-30,GDP,0.5,$ Million,Quarterly,ABS
+1993-09-30,GDP,0.7,$ Million,Quarterly,ABS
+1993-12-31,GDP,1.3,$ Million,Quarterly,ABS
+1994-03-31,GDP,1.5,$ Million,Quarterly,ABS
+1994-06-30,GDP,1.4,$ Million,Quarterly,ABS
+1994-09-30,GDP,0.9,$ Million,Quarterly,ABS
+1994-12-31,GDP,0.5,$ Million,Quarterly,ABS
+1995-03-31,GDP,0.5,$ Million,Quarterly,ABS
+1995-06-30,GDP,0.8,$ Million,Quarterly,ABS
+1995-09-30,GDP,1.1,$ Million,Quarterly,ABS
+1995-12-31,GDP,1.1,$ Million,Quarterly,ABS
+1996-03-31,GDP,0.9,$ Million,Quarterly,ABS
+1996-06-30,GDP,0.8,$ Million,Quarterly,ABS
+1996-09-30,GDP,0.8,$ Million,Quarterly,ABS
+1996-12-31,GDP,1.0,$ Million,Quarterly,ABS
+1997-03-31,GDP,1.4,$ Million,Quarterly,ABS
+1997-06-30,GDP,1.5,$ Million,Quarterly,ABS
+1997-09-30,GDP,1.3,$ Million,Quarterly,ABS
+1997-12-31,GDP,0.9,$ Million,Quarterly,ABS
+1998-03-31,GDP,0.8,$ Million,Quarterly,ABS
+1998-06-30,GDP,1.3,$ Million,Quarterly,ABS
+1998-09-30,GDP,1.5,$ Million,Quarterly,ABS
+1998-12-31,GDP,1.4,$ Million,Quarterly,ABS
+1999-03-31,GDP,0.9,$ Million,Quarterly,ABS
+1999-06-30,GDP,0.8,$ Million,Quarterly,ABS
+1999-09-30,GDP,1.0,$ Million,Quarterly,ABS
+1999-12-31,GDP,1.2,$ Million,Quarterly,ABS
+2000-03-31,GDP,1.0,$ Million,Quarterly,ABS
+2000-06-30,GDP,0.6,$ Million,Quarterly,ABS
+2000-09-30,GDP,0.2,$ Million,Quarterly,ABS
+2000-12-31,GDP,0.2,$ Million,Quarterly,ABS
+2001-03-31,GDP,0.5,$ Million,Quarterly,ABS
+2001-06-30,GDP,1.0,$ Million,Quarterly,ABS
+2001-09-30,GDP,1.1,$ Million,Quarterly,ABS
+2001-12-31,GDP,1.1,$ Million,Quarterly,ABS
+2002-03-31,GDP,1.2,$ Million,Quarterly,ABS
+2002-06-30,GDP,1.0,$ Million,Quarterly,ABS
+2002-09-30,GDP,0.8,$ Million,Quarterly,ABS
+2002-12-31,GDP,0.5,$ Million,Quarterly,ABS
+2003-03-31,GDP,0.4,$ Million,Quarterly,ABS
+2003-06-30,GDP,0.8,$ Million,Quarterly,ABS
+2003-09-30,GDP,1.3,$ Million,Quarterly,ABS
+2003-12-31,GDP,1.4,$ Million,Quarterly,ABS
+2004-03-31,GDP,1.1,$ Million,Quarterly,ABS
+2004-06-30,GDP,0.7,$ Million,Quarterly,ABS
+2004-09-30,GDP,0.7,$ Million,Quarterly,ABS
+2004-12-31,GDP,0.7,$ Million,Quarterly,ABS
+2005-03-31,GDP,0.7,$ Million,Quarterly,ABS
+2005-06-30,GDP,0.8,$ Million,Quarterly,ABS
+2005-09-30,GDP,0.8,$ Million,Quarterly,ABS
+2005-12-31,GDP,0.6,$ Million,Quarterly,ABS
+2006-03-31,GDP,0.4,$ Million,Quarterly,ABS
+2006-06-30,GDP,0.5,$ Million,Quarterly,ABS
+2006-09-30,GDP,1.1,$ Million,Quarterly,ABS
+2006-12-31,GDP,1.3,$ Million,Quarterly,ABS
+2007-03-31,GDP,1.2,$ Million,Quarterly,ABS
+2007-06-30,GDP,1.0,$ Million,Quarterly,ABS
+2007-09-30,GDP,0.8,$ Million,Quarterly,ABS
+2007-12-31,GDP,0.8,$ Million,Quarterly,ABS
+2008-03-31,GDP,0.8,$ Million,Quarterly,ABS
+2008-06-30,GDP,0.5,$ Million,Quarterly,ABS
+2008-09-30,GDP,0.3,$ Million,Quarterly,ABS
+2008-12-31,GDP,0.3,$ Million,Quarterly,ABS
+2009-03-31,GDP,0.5,$ Million,Quarterly,ABS
+2009-06-30,GDP,0.6,$ Million,Quarterly,ABS
+2009-09-30,GDP,0.6,$ Million,Quarterly,ABS
+2009-12-31,GDP,0.5,$ Million,Quarterly,ABS
+2010-03-31,GDP,0.6,$ Million,Quarterly,ABS
+2010-06-30,GDP,0.7,$ Million,Quarterly,ABS
+2010-09-30,GDP,0.6,$ Million,Quarterly,ABS
+2010-12-31,GDP,0.5,$ Million,Quarterly,ABS
+2011-03-31,GDP,0.5,$ Million,Quarterly,ABS
+2011-06-30,GDP,0.8,$ Million,Quarterly,ABS
+2011-09-30,GDP,1.2,$ Million,Quarterly,ABS
+2011-12-31,GDP,1.3,$ Million,Quarterly,ABS
+2012-03-31,GDP,1.0,$ Million,Quarterly,ABS
+2012-06-30,GDP,0.8,$ Million,Quarterly,ABS
+2012-09-30,GDP,0.6,$ Million,Quarterly,ABS
+2012-12-31,GDP,0.5,$ Million,Quarterly,ABS
+2013-03-31,GDP,0.5,$ Million,Quarterly,ABS
+2013-06-30,GDP,0.5,$ Million,Quarterly,ABS
+2013-09-30,GDP,0.7,$ Million,Quarterly,ABS
+2013-12-31,GDP,0.8,$ Million,Quarterly,ABS
+2014-03-31,GDP,0.7,$ Million,Quarterly,ABS
+2014-06-30,GDP,0.5,$ Million,Quarterly,ABS
+2014-09-30,GDP,0.5,$ Million,Quarterly,ABS
+2014-12-31,GDP,0.5,$ Million,Quarterly,ABS
+2015-03-31,GDP,0.6,$ Million,Quarterly,ABS
+2015-06-30,GDP,0.6,$ Million,Quarterly,ABS
+2015-09-30,GDP,0.7,$ Million,Quarterly,ABS
+2015-12-31,GDP,0.8,$ Million,Quarterly,ABS
+2016-03-31,GDP,0.7,$ Million,Quarterly,ABS
+2016-06-30,GDP,0.6,$ Million,Quarterly,ABS
+2016-09-30,GDP,0.5,$ Million,Quarterly,ABS
+2016-12-31,GDP,0.5,$ Million,Quarterly,ABS
+2017-03-31,GDP,0.6,$ Million,Quarterly,ABS
+2017-06-30,GDP,0.6,$ Million,Quarterly,ABS
+2017-09-30,GDP,0.7,$ Million,Quarterly,ABS
+2017-12-31,GDP,0.8,$ Million,Quarterly,ABS
+2018-03-31,GDP,0.8,$ Million,Quarterly,ABS
+2018-06-30,GDP,0.7,$ Million,Quarterly,ABS
+2018-09-30,GDP,0.5,$ Million,Quarterly,ABS
+2018-12-31,GDP,0.4,$ Million,Quarterly,ABS
+2019-03-31,GDP,0.4,$ Million,Quarterly,ABS
+1978-02-28,Unemployment Rate,6.303614,Percent,Monthly,ABS
+1978-03-31,Unemployment Rate,6.2924756,Percent,Monthly,ABS
+1978-04-30,Unemployment Rate,6.2773464,Percent,Monthly,ABS
+1978-05-31,Unemployment Rate,6.2678888,Percent,Monthly,ABS
+1978-06-30,Unemployment Rate,6.2643606,Percent,Monthly,ABS
+1978-07-31,Unemployment Rate,6.2679595,Percent,Monthly,ABS
+1978-08-31,Unemployment Rate,6.2762797,Percent,Monthly,ABS
+1978-09-30,Unemployment Rate,6.2850848,Percent,Monthly,ABS
+1978-10-31,Unemployment Rate,6.2884093,Percent,Monthly,ABS
+1978-11-30,Unemployment Rate,6.2926229,Percent,Monthly,ABS
+1978-12-31,Unemployment Rate,6.2981712,Percent,Monthly,ABS
+1979-01-31,Unemployment Rate,6.3025242,Percent,Monthly,ABS
+1979-02-28,Unemployment Rate,6.3053187,Percent,Monthly,ABS
+1979-03-31,Unemployment Rate,6.303199,Percent,Monthly,ABS
+1979-04-30,Unemployment Rate,6.2913375,Percent,Monthly,ABS
+1979-05-31,Unemployment Rate,6.2737262,Percent,Monthly,ABS
+1979-06-30,Unemployment Rate,6.2503336,Percent,Monthly,ABS
+1979-07-31,Unemployment Rate,6.2233453,Percent,Monthly,ABS
+1979-08-31,Unemployment Rate,6.1968574,Percent,Monthly,ABS
+1979-09-30,Unemployment Rate,6.1722184,Percent,Monthly,ABS
+1979-10-31,Unemployment Rate,6.1486143,Percent,Monthly,ABS
+1979-11-30,Unemployment Rate,6.122697,Percent,Monthly,ABS
+1979-12-31,Unemployment Rate,6.0970427,Percent,Monthly,ABS
+1980-01-31,Unemployment Rate,6.0843758,Percent,Monthly,ABS
+1980-02-29,Unemployment Rate,6.0893582,Percent,Monthly,ABS
+1980-03-31,Unemployment Rate,6.1118512,Percent,Monthly,ABS
+1980-04-30,Unemployment Rate,6.1466689,Percent,Monthly,ABS
+1980-05-31,Unemployment Rate,6.1768135,Percent,Monthly,ABS
+1980-06-30,Unemployment Rate,6.1882103,Percent,Monthly,ABS
+1980-07-31,Unemployment Rate,6.1753849,Percent,Monthly,ABS
+1980-08-31,Unemployment Rate,6.1376845,Percent,Monthly,ABS
+1980-09-30,Unemployment Rate,6.0812077,Percent,Monthly,ABS
+1980-10-31,Unemployment Rate,6.0169536,Percent,Monthly,ABS
+1980-11-30,Unemployment Rate,5.9514589,Percent,Monthly,ABS
+1980-12-31,Unemployment Rate,5.885037,Percent,Monthly,ABS
+1981-01-31,Unemployment Rate,5.8125233,Percent,Monthly,ABS
+1981-02-28,Unemployment Rate,5.7375752,Percent,Monthly,ABS
+1981-03-31,Unemployment Rate,5.6733493,Percent,Monthly,ABS
+1981-04-30,Unemployment Rate,5.6334492,Percent,Monthly,ABS
+1981-05-31,Unemployment Rate,5.6268779,Percent,Monthly,ABS
+1981-06-30,Unemployment Rate,5.6552982,Percent,Monthly,ABS
+1981-07-31,Unemployment Rate,5.7110026,Percent,Monthly,ABS
+1981-08-31,Unemployment Rate,5.7785185,Percent,Monthly,ABS
+1981-09-30,Unemployment Rate,5.8453233,Percent,Monthly,ABS
+1981-10-31,Unemployment Rate,5.9084351,Percent,Monthly,ABS
+1981-11-30,Unemployment Rate,5.9678375,Percent,Monthly,ABS
+1981-12-31,Unemployment Rate,6.0317293,Percent,Monthly,ABS
+1982-01-31,Unemployment Rate,6.106125,Percent,Monthly,ABS
+1982-02-28,Unemployment Rate,6.1932926,Percent,Monthly,ABS
+1982-03-31,Unemployment Rate,6.2918132,Percent,Monthly,ABS
+1982-04-30,Unemployment Rate,6.400995,Percent,Monthly,ABS
+1982-05-31,Unemployment Rate,6.5345323,Percent,Monthly,ABS
+1982-06-30,Unemployment Rate,6.7148983,Percent,Monthly,ABS
+1982-07-31,Unemployment Rate,6.9669899,Percent,Monthly,ABS
+1982-08-31,Unemployment Rate,7.3044432,Percent,Monthly,ABS
+1982-09-30,Unemployment Rate,7.7172412,Percent,Monthly,ABS
+1982-10-31,Unemployment Rate,8.1682592,Percent,Monthly,ABS
+1982-11-30,Unemployment Rate,8.6204053,Percent,Monthly,ABS
+1982-12-31,Unemployment Rate,9.0452946,Percent,Monthly,ABS
+1983-01-31,Unemployment Rate,9.4163066,Percent,Monthly,ABS
+1983-02-28,Unemployment Rate,9.7244896,Percent,Monthly,ABS
+1983-03-31,Unemployment Rate,9.9680547,Percent,Monthly,ABS
+1983-04-30,Unemployment Rate,10.1517003,Percent,Monthly,ABS
+1983-05-31,Unemployment Rate,10.2820444,Percent,Monthly,ABS
+1983-06-30,Unemployment Rate,10.3531126,Percent,Monthly,ABS
+1983-07-31,Unemployment Rate,10.3516445,Percent,Monthly,ABS
+1983-08-31,Unemployment Rate,10.2757713,Percent,Monthly,ABS
+1983-09-30,Unemployment Rate,10.1414715,Percent,Monthly,ABS
+1983-10-31,Unemployment Rate,9.9701823,Percent,Monthly,ABS
+1983-11-30,Unemployment Rate,9.7876486,Percent,Monthly,ABS
+1983-12-31,Unemployment Rate,9.6124557,Percent,Monthly,ABS
+1984-01-31,Unemployment Rate,9.4663942,Percent,Monthly,ABS
+1984-02-29,Unemployment Rate,9.3553248,Percent,Monthly,ABS
+1984-03-31,Unemployment Rate,9.2692297,Percent,Monthly,ABS
+1984-04-30,Unemployment Rate,9.1954143,Percent,Monthly,ABS
+1984-05-31,Unemployment Rate,9.1187349,Percent,Monthly,ABS
+1984-06-30,Unemployment Rate,9.0340022,Percent,Monthly,ABS
+1984-07-31,Unemployment Rate,8.9443438,Percent,Monthly,ABS
+1984-08-31,Unemployment Rate,8.8550134,Percent,Monthly,ABS
+1984-09-30,Unemployment Rate,8.7627348,Percent,Monthly,ABS
+1984-10-31,Unemployment Rate,8.6770956,Percent,Monthly,ABS
+1984-11-30,Unemployment Rate,8.6071319,Percent,Monthly,ABS
+1984-12-31,Unemployment Rate,8.5541145,Percent,Monthly,ABS
+1985-01-31,Unemployment Rate,8.5199106,Percent,Monthly,ABS
+1985-02-28,Unemployment Rate,8.4969975,Percent,Monthly,ABS
+1985-03-31,Unemployment Rate,8.4772436,Percent,Monthly,ABS
+1985-04-30,Unemployment Rate,8.4491443,Percent,Monthly,ABS
+1985-05-31,Unemployment Rate,8.4024599,Percent,Monthly,ABS
+1985-06-30,Unemployment Rate,8.3344311,Percent,Monthly,ABS
+1985-07-31,Unemployment Rate,8.245769,Percent,Monthly,ABS
+1985-08-31,Unemployment Rate,8.1398058,Percent,Monthly,ABS
+1985-09-30,Unemployment Rate,8.0329523,Percent,Monthly,ABS
+1985-10-31,Unemployment Rate,7.9433486,Percent,Monthly,ABS
+1985-11-30,Unemployment Rate,7.8810469,Percent,Monthly,ABS
+1985-12-31,Unemployment Rate,7.8519449,Percent,Monthly,ABS
+1986-01-31,Unemployment Rate,7.8506622,Percent,Monthly,ABS
+1986-02-28,Unemployment Rate,7.8671709,Percent,Monthly,ABS
+1986-03-31,Unemployment Rate,7.8984938,Percent,Monthly,ABS
+1986-04-30,Unemployment Rate,7.8510765,Percent,Monthly,ABS
+1986-05-31,Unemployment Rate,7.9131919,Percent,Monthly,ABS
+1986-06-30,Unemployment Rate,7.9914941,Percent,Monthly,ABS
+1986-07-31,Unemployment Rate,8.0819312,Percent,Monthly,ABS
+1986-08-31,Unemployment Rate,8.1757121,Percent,Monthly,ABS
+1986-09-30,Unemployment Rate,8.2547367,Percent,Monthly,ABS
+1986-10-31,Unemployment Rate,8.3069257,Percent,Monthly,ABS
+1986-11-30,Unemployment Rate,8.3331961,Percent,Monthly,ABS
+1986-12-31,Unemployment Rate,8.3417253,Percent,Monthly,ABS
+1987-01-31,Unemployment Rate,8.3403618,Percent,Monthly,ABS
+1987-02-28,Unemployment Rate,8.3302426,Percent,Monthly,ABS
+1987-03-31,Unemployment Rate,8.3102341,Percent,Monthly,ABS
+1987-04-30,Unemployment Rate,8.274553300000001,Percent,Monthly,ABS
+1987-05-31,Unemployment Rate,8.2234379,Percent,Monthly,ABS
+1987-06-30,Unemployment Rate,8.1631132,Percent,Monthly,ABS
+1987-07-31,Unemployment Rate,8.0990889,Percent,Monthly,ABS
+1987-08-31,Unemployment Rate,8.0371927,Percent,Monthly,ABS
+1987-09-30,Unemployment Rate,7.9760625,Percent,Monthly,ABS
+1987-10-31,Unemployment Rate,7.9045076,Percent,Monthly,ABS
+1987-11-30,Unemployment Rate,7.8191276,Percent,Monthly,ABS
+1987-12-31,Unemployment Rate,7.7273718,Percent,Monthly,ABS
+1988-01-31,Unemployment Rate,7.6443747,Percent,Monthly,ABS
+1988-02-29,Unemployment Rate,7.5790042,Percent,Monthly,ABS
+1988-03-31,Unemployment Rate,7.5288167,Percent,Monthly,ABS
+1988-04-30,Unemployment Rate,7.4831581,Percent,Monthly,ABS
+1988-05-31,Unemployment Rate,7.4238436,Percent,Monthly,ABS
+1988-06-30,Unemployment Rate,7.3325321,Percent,Monthly,ABS
+1988-07-31,Unemployment Rate,7.2117884,Percent,Monthly,ABS
+1988-08-31,Unemployment Rate,7.0826289,Percent,Monthly,ABS
+1988-09-30,Unemployment Rate,6.9679016,Percent,Monthly,ABS
+1988-10-31,Unemployment Rate,6.8795194,Percent,Monthly,ABS
+1988-11-30,Unemployment Rate,6.8056383,Percent,Monthly,ABS
+1988-12-31,Unemployment Rate,6.7322443,Percent,Monthly,ABS
+1989-01-31,Unemployment Rate,6.6454946,Percent,Monthly,ABS
+1989-02-28,Unemployment Rate,6.5401472,Percent,Monthly,ABS
+1989-03-31,Unemployment Rate,6.422054,Percent,Monthly,ABS
+1989-04-30,Unemployment Rate,6.3014796,Percent,Monthly,ABS
+1989-05-31,Unemployment Rate,6.1931025,Percent,Monthly,ABS
+1989-06-30,Unemployment Rate,6.104034,Percent,Monthly,ABS
+1989-07-31,Unemployment Rate,6.0297417,Percent,Monthly,ABS
+1989-08-31,Unemployment Rate,5.9658347,Percent,Monthly,ABS
+1989-09-30,Unemployment Rate,5.9185807,Percent,Monthly,ABS
+1989-10-31,Unemployment Rate,5.897901,Percent,Monthly,ABS
+1989-11-30,Unemployment Rate,5.9086611,Percent,Monthly,ABS
+1989-12-31,Unemployment Rate,5.9509676,Percent,Monthly,ABS
+1990-01-31,Unemployment Rate,6.017283,Percent,Monthly,ABS
+1990-02-28,Unemployment Rate,6.1086933,Percent,Monthly,ABS
+1990-03-31,Unemployment Rate,6.2254053,Percent,Monthly,ABS
+1990-04-30,Unemployment Rate,6.3673476,Percent,Monthly,ABS
+1990-05-31,Unemployment Rate,6.5324557,Percent,Monthly,ABS
+1990-06-30,Unemployment Rate,6.7230419,Percent,Monthly,ABS
+1990-07-31,Unemployment Rate,6.9344272,Percent,Monthly,ABS
+1990-08-31,Unemployment Rate,7.1586636,Percent,Monthly,ABS
+1990-09-30,Unemployment Rate,7.3840731,Percent,Monthly,ABS
+1990-10-31,Unemployment Rate,7.6162756,Percent,Monthly,ABS
+1990-11-30,Unemployment Rate,7.8688384,Percent,Monthly,ABS
+1990-12-31,Unemployment Rate,8.1518106,Percent,Monthly,ABS
+1991-01-31,Unemployment Rate,8.4598763,Percent,Monthly,ABS
+1991-02-28,Unemployment Rate,8.7720272,Percent,Monthly,ABS
+1991-03-31,Unemployment Rate,9.0553165,Percent,Monthly,ABS
+1991-04-30,Unemployment Rate,9.29389,Percent,Monthly,ABS
+1991-05-31,Unemployment Rate,9.4798079,Percent,Monthly,ABS
+1991-06-30,Unemployment Rate,9.6137957,Percent,Monthly,ABS
+1991-07-31,Unemployment Rate,9.7205765,Percent,Monthly,ABS
+1991-08-31,Unemployment Rate,9.8265549,Percent,Monthly,ABS
+1991-09-30,Unemployment Rate,9.9447861,Percent,Monthly,ABS
+1991-10-31,Unemployment Rate,10.0739114,Percent,Monthly,ABS
+1991-11-30,Unemployment Rate,10.1976341,Percent,Monthly,ABS
+1991-12-31,Unemployment Rate,10.3016421,Percent,Monthly,ABS
+1992-01-31,Unemployment Rate,10.3810908,Percent,Monthly,ABS
+1992-02-29,Unemployment Rate,10.4471267,Percent,Monthly,ABS
+1992-03-31,Unemployment Rate,10.5062482,Percent,Monthly,ABS
+1992-04-30,Unemployment Rate,10.5622112,Percent,Monthly,ABS
+1992-05-31,Unemployment Rate,10.6240772,Percent,Monthly,ABS
+1992-06-30,Unemployment Rate,10.6988036,Percent,Monthly,ABS
+1992-07-31,Unemployment Rate,10.7878903,Percent,Monthly,ABS
+1992-08-31,Unemployment Rate,10.8859721,Percent,Monthly,ABS
+1992-09-30,Unemployment Rate,10.9867825,Percent,Monthly,ABS
+1992-10-31,Unemployment Rate,11.0693947,Percent,Monthly,ABS
+1992-11-30,Unemployment Rate,11.1134502,Percent,Monthly,ABS
+1992-12-31,Unemployment Rate,11.1048508,Percent,Monthly,ABS
+1993-01-31,Unemployment Rate,11.0484128,Percent,Monthly,ABS
+1993-02-28,Unemployment Rate,10.9652987,Percent,Monthly,ABS
+1993-03-31,Unemployment Rate,10.8925911,Percent,Monthly,ABS
+1993-04-30,Unemployment Rate,10.8575804,Percent,Monthly,ABS
+1993-05-31,Unemployment Rate,10.8617746,Percent,Monthly,ABS
+1993-06-30,Unemployment Rate,10.8960604,Percent,Monthly,ABS
+1993-07-31,Unemployment Rate,10.9428447,Percent,Monthly,ABS
+1993-08-31,Unemployment Rate,10.9773724,Percent,Monthly,ABS
+1993-09-30,Unemployment Rate,10.9832932,Percent,Monthly,ABS
+1993-10-31,Unemployment Rate,10.9483233,Percent,Monthly,ABS
+1993-11-30,Unemployment Rate,10.8729498,Percent,Monthly,ABS
+1993-12-31,Unemployment Rate,10.7543054,Percent,Monthly,ABS
+1994-01-31,Unemployment Rate,10.5968738,Percent,Monthly,ABS
+1994-02-28,Unemployment Rate,10.4137254,Percent,Monthly,ABS
+1994-03-31,Unemployment Rate,10.2257479,Percent,Monthly,ABS
+1994-04-30,Unemployment Rate,10.0517787,Percent,Monthly,ABS
+1994-05-31,Unemployment Rate,9.8956334,Percent,Monthly,ABS
+1994-06-30,Unemployment Rate,9.7519524,Percent,Monthly,ABS
+1994-07-31,Unemployment Rate,9.6134933,Percent,Monthly,ABS
+1994-08-31,Unemployment Rate,9.4772816,Percent,Monthly,ABS
+1994-09-30,Unemployment Rate,9.3440532,Percent,Monthly,ABS
+1994-10-31,Unemployment Rate,9.2176123,Percent,Monthly,ABS
+1994-11-30,Unemployment Rate,9.0945436,Percent,Monthly,ABS
+1994-12-31,Unemployment Rate,8.9748073,Percent,Monthly,ABS
+1995-01-31,Unemployment Rate,8.8566696,Percent,Monthly,ABS
+1995-02-28,Unemployment Rate,8.7373432,Percent,Monthly,ABS
+1995-03-31,Unemployment Rate,8.6189511,Percent,Monthly,ABS
+1995-04-30,Unemployment Rate,8.5080835,Percent,Monthly,ABS
+1995-05-31,Unemployment Rate,8.4178888,Percent,Monthly,ABS
+1995-06-30,Unemployment Rate,8.3616505,Percent,Monthly,ABS
+1995-07-31,Unemployment Rate,8.332511,Percent,Monthly,ABS
+1995-08-31,Unemployment Rate,8.3240075,Percent,Monthly,ABS
+1995-09-30,Unemployment Rate,8.3238906,Percent,Monthly,ABS
+1995-10-31,Unemployment Rate,8.3214985,Percent,Monthly,ABS
+1995-11-30,Unemployment Rate,8.3230326,Percent,Monthly,ABS
+1995-12-31,Unemployment Rate,8.3338241,Percent,Monthly,ABS
+1996-01-31,Unemployment Rate,8.3517202,Percent,Monthly,ABS
+1996-02-29,Unemployment Rate,8.3770262,Percent,Monthly,ABS
+1996-03-31,Unemployment Rate,8.4088818,Percent,Monthly,ABS
+1996-04-30,Unemployment Rate,8.4437692,Percent,Monthly,ABS
+1996-05-31,Unemployment Rate,8.4803743,Percent,Monthly,ABS
+1996-06-30,Unemployment Rate,8.5148698,Percent,Monthly,ABS
+1996-07-31,Unemployment Rate,8.5462707,Percent,Monthly,ABS
+1996-08-31,Unemployment Rate,8.5698849,Percent,Monthly,ABS
+1996-09-30,Unemployment Rate,8.5831851,Percent,Monthly,ABS
+1996-10-31,Unemployment Rate,8.5910064,Percent,Monthly,ABS
+1996-11-30,Unemployment Rate,8.5944099,Percent,Monthly,ABS
+1996-12-31,Unemployment Rate,8.5995846,Percent,Monthly,ABS
+1997-01-31,Unemployment Rate,8.6080714,Percent,Monthly,ABS
+1997-02-28,Unemployment Rate,8.6107961,Percent,Monthly,ABS
+1997-03-31,Unemployment Rate,8.606762,Percent,Monthly,ABS
+1997-04-30,Unemployment Rate,8.590765,Percent,Monthly,ABS
+1997-05-31,Unemployment Rate,8.5535467,Percent,Monthly,ABS
+1997-06-30,Unemployment Rate,8.4893427,Percent,Monthly,ABS
+1997-07-31,Unemployment Rate,8.405235,Percent,Monthly,ABS
+1997-08-31,Unemployment Rate,8.3053971,Percent,Monthly,ABS
+1997-09-30,Unemployment Rate,8.1962785,Percent,Monthly,ABS
+1997-10-31,Unemployment Rate,8.0877091,Percent,Monthly,ABS
+1997-11-30,Unemployment Rate,7.9946592,Percent,Monthly,ABS
+1997-12-31,Unemployment Rate,7.9218655,Percent,Monthly,ABS
+1998-01-31,Unemployment Rate,7.8713341,Percent,Monthly,ABS
+1998-02-28,Unemployment Rate,7.8447778,Percent,Monthly,ABS
+1998-03-31,Unemployment Rate,7.8276357,Percent,Monthly,ABS
+1998-04-30,Unemployment Rate,7.8151544,Percent,Monthly,ABS
+1998-05-31,Unemployment Rate,7.8002524,Percent,Monthly,ABS
+1998-06-30,Unemployment Rate,7.7761943,Percent,Monthly,ABS
+1998-07-31,Unemployment Rate,7.7336692,Percent,Monthly,ABS
+1998-08-31,Unemployment Rate,7.6670799,Percent,Monthly,ABS
+1998-09-30,Unemployment Rate,7.5792114,Percent,Monthly,ABS
+1998-10-31,Unemployment Rate,7.4802756,Percent,Monthly,ABS
+1998-11-30,Unemployment Rate,7.378384,Percent,Monthly,ABS
+1998-12-31,Unemployment Rate,7.2844022,Percent,Monthly,ABS
+1999-01-31,Unemployment Rate,7.202789,Percent,Monthly,ABS
+1999-02-28,Unemployment Rate,7.1250057,Percent,Monthly,ABS
+1999-03-31,Unemployment Rate,7.0449129,Percent,Monthly,ABS
+1999-04-30,Unemployment Rate,6.969821,Percent,Monthly,ABS
+1999-05-31,Unemployment Rate,6.9092008,Percent,Monthly,ABS
+1999-06-30,Unemployment Rate,6.8680299,Percent,Monthly,ABS
+1999-07-31,Unemployment Rate,6.8386999,Percent,Monthly,ABS
+1999-08-31,Unemployment Rate,6.8190102,Percent,Monthly,ABS
+1999-09-30,Unemployment Rate,6.7960857,Percent,Monthly,ABS
+1999-10-31,Unemployment Rate,6.7631889,Percent,Monthly,ABS
+1999-11-30,Unemployment Rate,6.7192847,Percent,Monthly,ABS
+1999-12-31,Unemployment Rate,6.6660198,Percent,Monthly,ABS
+2000-01-31,Unemployment Rate,6.6070117,Percent,Monthly,ABS
+2000-02-29,Unemployment Rate,6.5404568,Percent,Monthly,ABS
+2000-03-31,Unemployment Rate,6.4609236,Percent,Monthly,ABS
+2000-04-30,Unemployment Rate,6.3612951,Percent,Monthly,ABS
+2000-05-31,Unemployment Rate,6.2448897,Percent,Monthly,ABS
+2000-06-30,Unemployment Rate,6.1356887,Percent,Monthly,ABS
+2000-07-31,Unemployment Rate,6.059947,Percent,Monthly,ABS
+2000-08-31,Unemployment Rate,6.0261767,Percent,Monthly,ABS
+2000-09-30,Unemployment Rate,6.0338691,Percent,Monthly,ABS
+2000-10-31,Unemployment Rate,6.0734623,Percent,Monthly,ABS
+2000-11-30,Unemployment Rate,6.1335962,Percent,Monthly,ABS
+2000-12-31,Unemployment Rate,6.2092677,Percent,Monthly,ABS
+2001-01-31,Unemployment Rate,6.2983429,Percent,Monthly,ABS
+2001-02-28,Unemployment Rate,6.3984534,Percent,Monthly,ABS
+2001-03-31,Unemployment Rate,6.5064409,Percent,Monthly,ABS
+2001-04-30,Unemployment Rate,6.743917,Percent,Monthly,ABS
+2001-05-31,Unemployment Rate,6.8237784,Percent,Monthly,ABS
+2001-06-30,Unemployment Rate,6.8825451,Percent,Monthly,ABS
+2001-07-31,Unemployment Rate,6.9176427,Percent,Monthly,ABS
+2001-08-31,Unemployment Rate,6.9426694,Percent,Monthly,ABS
+2001-09-30,Unemployment Rate,6.96278,Percent,Monthly,ABS
+2001-10-31,Unemployment Rate,6.9664209,Percent,Monthly,ABS
+2001-11-30,Unemployment Rate,6.9385247,Percent,Monthly,ABS
+2001-12-31,Unemployment Rate,6.8686427,Percent,Monthly,ABS
+2002-01-31,Unemployment Rate,6.7621425,Percent,Monthly,ABS
+2002-02-28,Unemployment Rate,6.6356244,Percent,Monthly,ABS
+2002-03-31,Unemployment Rate,6.5119262,Percent,Monthly,ABS
+2002-04-30,Unemployment Rate,6.4140589,Percent,Monthly,ABS
+2002-05-31,Unemployment Rate,6.3529558,Percent,Monthly,ABS
+2002-06-30,Unemployment Rate,6.3177512,Percent,Monthly,ABS
+2002-07-31,Unemployment Rate,6.3028124,Percent,Monthly,ABS
+2002-08-31,Unemployment Rate,6.2916123,Percent,Monthly,ABS
+2002-09-30,Unemployment Rate,6.2658912,Percent,Monthly,ABS
+2002-10-31,Unemployment Rate,6.2274324,Percent,Monthly,ABS
+2002-11-30,Unemployment Rate,6.1794101,Percent,Monthly,ABS
+2002-12-31,Unemployment Rate,6.1306854,Percent,Monthly,ABS
+2003-01-31,Unemployment Rate,6.0891196,Percent,Monthly,ABS
+2003-02-28,Unemployment Rate,6.069283,Percent,Monthly,ABS
+2003-03-31,Unemployment Rate,6.0708434,Percent,Monthly,ABS
+2003-04-30,Unemployment Rate,6.0810624,Percent,Monthly,ABS
+2003-05-31,Unemployment Rate,6.0803928,Percent,Monthly,ABS
+2003-06-30,Unemployment Rate,6.0538902,Percent,Monthly,ABS
+2003-07-31,Unemployment Rate,5.9978749,Percent,Monthly,ABS
+2003-08-31,Unemployment Rate,5.9156263,Percent,Monthly,ABS
+2003-09-30,Unemployment Rate,5.8299402,Percent,Monthly,ABS
+2003-10-31,Unemployment Rate,5.751719,Percent,Monthly,ABS
+2003-11-30,Unemployment Rate,5.6857629,Percent,Monthly,ABS
+2003-12-31,Unemployment Rate,5.6320359,Percent,Monthly,ABS
+2004-01-31,Unemployment Rate,5.5840131,Percent,Monthly,ABS
+2004-02-29,Unemployment Rate,5.5354501,Percent,Monthly,ABS
+2004-03-31,Unemployment Rate,5.4907496,Percent,Monthly,ABS
+2004-04-30,Unemployment Rate,5.4631939,Percent,Monthly,ABS
+2004-05-31,Unemployment Rate,5.4510432,Percent,Monthly,ABS
+2004-06-30,Unemployment Rate,5.448486,Percent,Monthly,ABS
+2004-07-31,Unemployment Rate,5.4370012,Percent,Monthly,ABS
+2004-08-31,Unemployment Rate,5.4033768,Percent,Monthly,ABS
+2004-09-30,Unemployment Rate,5.3439108,Percent,Monthly,ABS
+2004-10-31,Unemployment Rate,5.2666168,Percent,Monthly,ABS
+2004-11-30,Unemployment Rate,5.1926952,Percent,Monthly,ABS
+2004-12-31,Unemployment Rate,5.1376128,Percent,Monthly,ABS
+2005-01-31,Unemployment Rate,5.1098446,Percent,Monthly,ABS
+2005-02-28,Unemployment Rate,5.1013957,Percent,Monthly,ABS
+2005-03-31,Unemployment Rate,5.0965332,Percent,Monthly,ABS
+2005-04-30,Unemployment Rate,5.0804701,Percent,Monthly,ABS
+2005-05-31,Unemployment Rate,5.0519343,Percent,Monthly,ABS
+2005-06-30,Unemployment Rate,5.0143391,Percent,Monthly,ABS
+2005-07-31,Unemployment Rate,4.9779944,Percent,Monthly,ABS
+2005-08-31,Unemployment Rate,4.9588466,Percent,Monthly,ABS
+2005-09-30,Unemployment Rate,4.9674259,Percent,Monthly,ABS
+2005-10-31,Unemployment Rate,4.999079,Percent,Monthly,ABS
+2005-11-30,Unemployment Rate,5.0362475,Percent,Monthly,ABS
+2005-12-31,Unemployment Rate,5.0597918,Percent,Monthly,ABS
+2006-01-31,Unemployment Rate,5.0563863,Percent,Monthly,ABS
+2006-02-28,Unemployment Rate,5.0218113,Percent,Monthly,ABS
+2006-03-31,Unemployment Rate,4.9601992,Percent,Monthly,ABS
+2006-04-30,Unemployment Rate,4.8875105,Percent,Monthly,ABS
+2006-05-31,Unemployment Rate,4.8166544,Percent,Monthly,ABS
+2006-06-30,Unemployment Rate,4.7560462,Percent,Monthly,ABS
+2006-07-31,Unemployment Rate,4.7069773,Percent,Monthly,ABS
+2006-08-31,Unemployment Rate,4.6628954,Percent,Monthly,ABS
+2006-09-30,Unemployment Rate,4.6208467,Percent,Monthly,ABS
+2006-10-31,Unemployment Rate,4.5841918,Percent,Monthly,ABS
+2006-11-30,Unemployment Rate,4.5598366,Percent,Monthly,ABS
+2006-12-31,Unemployment Rate,4.5405922,Percent,Monthly,ABS
+2007-01-31,Unemployment Rate,4.5201492,Percent,Monthly,ABS
+2007-02-28,Unemployment Rate,4.4911232,Percent,Monthly,ABS
+2007-03-31,Unemployment Rate,4.4503821,Percent,Monthly,ABS
+2007-04-30,Unemployment Rate,4.3977447,Percent,Monthly,ABS
+2007-05-31,Unemployment Rate,4.3433195,Percent,Monthly,ABS
+2007-06-30,Unemployment Rate,4.3009165,Percent,Monthly,ABS
+2007-07-31,Unemployment Rate,4.2760737,Percent,Monthly,ABS
+2007-08-31,Unemployment Rate,4.2677739,Percent,Monthly,ABS
+2007-09-30,Unemployment Rate,4.2690283,Percent,Monthly,ABS
+2007-10-31,Unemployment Rate,4.2675192,Percent,Monthly,ABS
+2007-11-30,Unemployment Rate,4.2527035,Percent,Monthly,ABS
+2007-12-31,Unemployment Rate,4.2253102,Percent,Monthly,ABS
+2008-01-31,Unemployment Rate,4.1944118,Percent,Monthly,ABS
+2008-02-29,Unemployment Rate,4.1702258,Percent,Monthly,ABS
+2008-03-31,Unemployment Rate,4.1597937,Percent,Monthly,ABS
+2008-04-30,Unemployment Rate,4.1629053,Percent,Monthly,ABS
+2008-05-31,Unemployment Rate,4.1724589,Percent,Monthly,ABS
+2008-06-30,Unemployment Rate,4.1838412,Percent,Monthly,ABS
+2008-07-31,Unemployment Rate,4.1978299,Percent,Monthly,ABS
+2008-08-31,Unemployment Rate,4.2283845,Percent,Monthly,ABS
+2008-09-30,Unemployment Rate,4.2883763,Percent,Monthly,ABS
+2008-10-31,Unemployment Rate,4.396309,Percent,Monthly,ABS
+2008-11-30,Unemployment Rate,4.5564718,Percent,Monthly,ABS
+2008-12-31,Unemployment Rate,4.7588133,Percent,Monthly,ABS
+2009-01-31,Unemployment Rate,4.9874381,Percent,Monthly,ABS
+2009-02-28,Unemployment Rate,5.2174033,Percent,Monthly,ABS
+2009-03-31,Unemployment Rate,5.4261234,Percent,Monthly,ABS
+2009-04-30,Unemployment Rate,5.5941212,Percent,Monthly,ABS
+2009-05-31,Unemployment Rate,5.7079036,Percent,Monthly,ABS
+2009-06-30,Unemployment Rate,5.7651447,Percent,Monthly,ABS
+2009-07-31,Unemployment Rate,5.7728202,Percent,Monthly,ABS
+2009-08-31,Unemployment Rate,5.7442238,Percent,Monthly,ABS
+2009-09-30,Unemployment Rate,5.691065,Percent,Monthly,ABS
+2009-10-31,Unemployment Rate,5.6228919,Percent,Monthly,ABS
+2009-11-30,Unemployment Rate,5.5503568,Percent,Monthly,ABS
+2009-12-31,Unemployment Rate,5.4901517,Percent,Monthly,ABS
+2010-01-31,Unemployment Rate,5.4392227,Percent,Monthly,ABS
+2010-02-28,Unemployment Rate,5.3999815,Percent,Monthly,ABS
+2010-03-31,Unemployment Rate,5.3679046,Percent,Monthly,ABS
+2010-04-30,Unemployment Rate,5.3286468,Percent,Monthly,ABS
+2010-05-31,Unemployment Rate,5.2825491,Percent,Monthly,ABS
+2010-06-30,Unemployment Rate,5.2362572,Percent,Monthly,ABS
+2010-07-31,Unemployment Rate,5.1940406,Percent,Monthly,ABS
+2010-08-31,Unemployment Rate,5.1558896,Percent,Monthly,ABS
+2010-09-30,Unemployment Rate,5.1252554,Percent,Monthly,ABS
+2010-10-31,Unemployment Rate,5.0993045,Percent,Monthly,ABS
+2010-11-30,Unemployment Rate,5.0719782,Percent,Monthly,ABS
+2010-12-31,Unemployment Rate,5.0418062,Percent,Monthly,ABS
+2011-01-31,Unemployment Rate,5.0143529,Percent,Monthly,ABS
+2011-02-28,Unemployment Rate,4.9917399,Percent,Monthly,ABS
+2011-03-31,Unemployment Rate,4.9786252,Percent,Monthly,ABS
+2011-04-30,Unemployment Rate,4.9852015,Percent,Monthly,ABS
+2011-05-31,Unemployment Rate,5.0109659,Percent,Monthly,ABS
+2011-06-30,Unemployment Rate,5.0526776,Percent,Monthly,ABS
+2011-07-31,Unemployment Rate,5.1132639,Percent,Monthly,ABS
+2011-08-31,Unemployment Rate,5.1814156,Percent,Monthly,ABS
+2011-09-30,Unemployment Rate,5.2352604,Percent,Monthly,ABS
+2011-10-31,Unemployment Rate,5.2628422,Percent,Monthly,ABS
+2011-11-30,Unemployment Rate,5.2584782,Percent,Monthly,ABS
+2011-12-31,Unemployment Rate,5.2251197,Percent,Monthly,ABS
+2012-01-31,Unemployment Rate,5.182142,Percent,Monthly,ABS
+2012-02-29,Unemployment Rate,5.1483774,Percent,Monthly,ABS
+2012-03-31,Unemployment Rate,5.1329534,Percent,Monthly,ABS
+2012-04-30,Unemployment Rate,5.1393231,Percent,Monthly,ABS
+2012-05-31,Unemployment Rate,5.1675156,Percent,Monthly,ABS
+2012-06-30,Unemployment Rate,5.2059546,Percent,Monthly,ABS
+2012-07-31,Unemployment Rate,5.2445954,Percent,Monthly,ABS
+2012-08-31,Unemployment Rate,5.2790455,Percent,Monthly,ABS
+2012-09-30,Unemployment Rate,5.306559,Percent,Monthly,ABS
+2012-10-31,Unemployment Rate,5.3276194,Percent,Monthly,ABS
+2012-11-30,Unemployment Rate,5.3528488,Percent,Monthly,ABS
+2012-12-31,Unemployment Rate,5.3912725,Percent,Monthly,ABS
+2013-01-31,Unemployment Rate,5.4405167,Percent,Monthly,ABS
+2013-02-28,Unemployment Rate,5.4959408,Percent,Monthly,ABS
+2013-03-31,Unemployment Rate,5.5551807,Percent,Monthly,ABS
+2013-04-30,Unemployment Rate,5.6069019,Percent,Monthly,ABS
+2013-05-31,Unemployment Rate,5.6456325,Percent,Monthly,ABS
+2013-06-30,Unemployment Rate,5.6725334,Percent,Monthly,ABS
+2013-07-31,Unemployment Rate,5.6973987,Percent,Monthly,ABS
+2013-08-31,Unemployment Rate,5.7262615,Percent,Monthly,ABS
+2013-09-30,Unemployment Rate,5.7642109,Percent,Monthly,ABS
+2013-10-31,Unemployment Rate,5.8056146,Percent,Monthly,ABS
+2013-11-30,Unemployment Rate,5.8367062,Percent,Monthly,ABS
+2013-12-31,Unemployment Rate,5.8496705,Percent,Monthly,ABS
+2014-01-31,Unemployment Rate,5.8457647,Percent,Monthly,ABS
+2014-02-28,Unemployment Rate,5.8370709,Percent,Monthly,ABS
+2014-03-31,Unemployment Rate,5.8388507,Percent,Monthly,ABS
+2014-04-30,Unemployment Rate,5.8630873,Percent,Monthly,ABS
+2014-05-31,Unemployment Rate,5.9206401,Percent,Monthly,ABS
+2014-06-30,Unemployment Rate,6.0060277,Percent,Monthly,ABS
+2014-07-31,Unemployment Rate,6.1008824,Percent,Monthly,ABS
+2014-08-31,Unemployment Rate,6.1857787,Percent,Monthly,ABS
+2014-09-30,Unemployment Rate,6.2501793,Percent,Monthly,ABS
+2014-10-31,Unemployment Rate,6.2857758,Percent,Monthly,ABS
+2014-11-30,Unemployment Rate,6.2935099,Percent,Monthly,ABS
+2014-12-31,Unemployment Rate,6.2758519,Percent,Monthly,ABS
+2015-01-31,Unemployment Rate,6.2382176,Percent,Monthly,ABS
+2015-02-28,Unemployment Rate,6.1910284,Percent,Monthly,ABS
+2015-03-31,Unemployment Rate,6.1462034,Percent,Monthly,ABS
+2015-04-30,Unemployment Rate,6.1149755,Percent,Monthly,ABS
+2015-05-31,Unemployment Rate,6.0961944,Percent,Monthly,ABS
+2015-06-30,Unemployment Rate,6.0834457,Percent,Monthly,ABS
+2015-07-31,Unemployment Rate,6.0662152,Percent,Monthly,ABS
+2015-08-31,Unemployment Rate,6.0371421,Percent,Monthly,ABS
+2015-09-30,Unemployment Rate,5.9919491,Percent,Monthly,ABS
+2015-10-31,Unemployment Rate,5.9356709,Percent,Monthly,ABS
+2015-11-30,Unemployment Rate,5.8735805,Percent,Monthly,ABS
+2015-12-31,Unemployment Rate,5.8145801,Percent,Monthly,ABS
+2016-01-31,Unemployment Rate,5.7670621,Percent,Monthly,ABS
+2016-02-29,Unemployment Rate,5.7305165,Percent,Monthly,ABS
+2016-03-31,Unemployment Rate,5.7016145,Percent,Monthly,ABS
+2016-04-30,Unemployment Rate,5.6800996,Percent,Monthly,ABS
+2016-05-31,Unemployment Rate,5.6605923,Percent,Monthly,ABS
+2016-06-30,Unemployment Rate,5.6439336,Percent,Monthly,ABS
+2016-07-31,Unemployment Rate,5.6369878,Percent,Monthly,ABS
+2016-08-31,Unemployment Rate,5.6409748,Percent,Monthly,ABS
+2016-09-30,Unemployment Rate,5.654785,Percent,Monthly,ABS
+2016-10-31,Unemployment Rate,5.6870464,Percent,Monthly,ABS
+2016-11-30,Unemployment Rate,5.7347722,Percent,Monthly,ABS
+2016-12-31,Unemployment Rate,5.7809633,Percent,Monthly,ABS
+2017-01-31,Unemployment Rate,5.8049966,Percent,Monthly,ABS
+2017-02-28,Unemployment Rate,5.802055,Percent,Monthly,ABS
+2017-03-31,Unemployment Rate,5.7724149,Percent,Monthly,ABS
+2017-04-30,Unemployment Rate,5.7249458,Percent,Monthly,ABS
+2017-05-31,Unemployment Rate,5.6702174,Percent,Monthly,ABS
+2017-06-30,Unemployment Rate,5.6157678,Percent,Monthly,ABS
+2017-07-31,Unemployment Rate,5.5654833,Percent,Monthly,ABS
+2017-08-31,Unemployment Rate,5.5277045,Percent,Monthly,ABS
+2017-09-30,Unemployment Rate,5.5077701,Percent,Monthly,ABS
+2017-10-31,Unemployment Rate,5.4979184,Percent,Monthly,ABS
+2017-11-30,Unemployment Rate,5.4972829,Percent,Monthly,ABS
+2017-12-31,Unemployment Rate,5.5093707,Percent,Monthly,ABS
+2018-01-31,Unemployment Rate,5.5255281,Percent,Monthly,ABS
+2018-02-28,Unemployment Rate,5.5324747,Percent,Monthly,ABS
+2018-03-31,Unemployment Rate,5.5219066,Percent,Monthly,ABS
+2018-04-30,Unemployment Rate,5.4917122,Percent,Monthly,ABS
+2018-05-31,Unemployment Rate,5.4427296,Percent,Monthly,ABS
+2018-06-30,Unemployment Rate,5.3833609,Percent,Monthly,ABS
+2018-07-31,Unemployment Rate,5.3161919,Percent,Monthly,ABS
+2018-08-31,Unemployment Rate,5.2430099,Percent,Monthly,ABS
+2018-09-30,Unemployment Rate,5.1711163,Percent,Monthly,ABS
+2018-10-31,Unemployment Rate,5.1071289,Percent,Monthly,ABS
+2018-11-30,Unemployment Rate,5.0595332,Percent,Monthly,ABS
+2018-12-31,Unemployment Rate,5.0311483,Percent,Monthly,ABS
+2019-01-31,Unemployment Rate,5.0267303,Percent,Monthly,ABS
+2019-02-28,Unemployment Rate,5.046417,Percent,Monthly,ABS
+2019-03-31,Unemployment Rate,5.0844446,Percent,Monthly,ABS
+2019-04-30,Unemployment Rate,5.1320902,Percent,Monthly,ABS
+2019-05-31,Unemployment Rate,5.1824185,Percent,Monthly,ABS
+2019-06-30,Unemployment Rate,5.2265562,Percent,Monthly,ABS
+2019-07-31,Unemployment Rate,5.2544864,Percent,Monthly,ABS
+2019-08-31,Unemployment Rate,5.2600832,Percent,Monthly,ABS
+2019-09-30,Unemployment Rate,5.245164,Percent,Monthly,ABS
+2019-10-31,Unemployment Rate,5.21594,Percent,Monthly,ABS
+2019-11-30,Unemployment Rate,5.1824482,Percent,Monthly,ABS
+2019-12-31,Unemployment Rate,5.1583018,Percent,Monthly,ABS
+2020-01-31,Unemployment Rate,5.1632663,Percent,Monthly,ABS
+2020-02-29,Unemployment Rate,5.2045225,Percent,Monthly,ABS
+2020-03-31,Unemployment Rate,5.2784209,Percent,Monthly,ABS
+2020-04-30,Unemployment Rate,6.7384696,Percent,Monthly,ABS
+2020-05-31,Unemployment Rate,6.8531304,Percent,Monthly,ABS
+2020-06-30,Unemployment Rate,6.8857974,Percent,Monthly,ABS
+2020-07-31,Unemployment Rate,6.9351097,Percent,Monthly,ABS
+2020-08-31,Unemployment Rate,6.8903133,Percent,Monthly,ABS
+2020-09-30,Unemployment Rate,6.8411779,Percent,Monthly,ABS
+2020-10-31,Unemployment Rate,6.7476445,Percent,Monthly,ABS
+2020-11-30,Unemployment Rate,6.6195562,Percent,Monthly,ABS
+2020-12-31,Unemployment Rate,6.4382666,Percent,Monthly,ABS
+2021-01-31,Unemployment Rate,6.2849396,Percent,Monthly,ABS
+2021-02-28,Unemployment Rate,5.8770709,Percent,Monthly,ABS
+2021-03-31,Unemployment Rate,5.6303046,Percent,Monthly,ABS
+2021-04-30,Unemployment Rate,5.4434923,Percent,Monthly,ABS
+2021-05-31,Unemployment Rate,5.2533651,Percent,Monthly,ABS
+2021-06-30,Unemployment Rate,5.0772674,Percent,Monthly,ABS
+2021-07-31,Unemployment Rate,4.868807,Percent,Monthly,ABS
+2021-08-31,Unemployment Rate,4.7418761,Percent,Monthly,ABS
+2021-09-30,Unemployment Rate,4.6449426,Percent,Monthly,ABS
+2021-10-31,Unemployment Rate,4.6159816,Percent,Monthly,ABS
+2021-11-30,Unemployment Rate,4.5552119,Percent,Monthly,ABS
+2021-12-31,Unemployment Rate,4.3018632,Percent,Monthly,ABS
+2022-01-31,Unemployment Rate,4.0811951,Percent,Monthly,ABS
+2022-02-28,Unemployment Rate,4.0212147,Percent,Monthly,ABS
+2022-03-31,Unemployment Rate,3.9485643,Percent,Monthly,ABS
+2022-04-30,Unemployment Rate,3.8592217,Percent,Monthly,ABS
+2022-05-31,Unemployment Rate,3.7583842,Percent,Monthly,ABS
+2022-06-30,Unemployment Rate,3.6565537,Percent,Monthly,ABS
+2022-07-31,Unemployment Rate,3.5663205,Percent,Monthly,ABS
+2022-08-31,Unemployment Rate,3.506326,Percent,Monthly,ABS
+2022-09-30,Unemployment Rate,3.4813755,Percent,Monthly,ABS
+2022-10-31,Unemployment Rate,3.4870928,Percent,Monthly,ABS
+2022-11-30,Unemployment Rate,3.5117566,Percent,Monthly,ABS
+2022-12-31,Unemployment Rate,3.5429361,Percent,Monthly,ABS
+2023-01-31,Unemployment Rate,3.5661048,Percent,Monthly,ABS
+2023-02-28,Unemployment Rate,3.5806483,Percent,Monthly,ABS
+2023-03-31,Unemployment Rate,3.5911466,Percent,Monthly,ABS
+2023-04-30,Unemployment Rate,3.5993235,Percent,Monthly,ABS
+2023-05-31,Unemployment Rate,3.6074988,Percent,Monthly,ABS
+2023-06-30,Unemployment Rate,3.6201774,Percent,Monthly,ABS
+2023-07-31,Unemployment Rate,3.6416572,Percent,Monthly,ABS
+2023-08-31,Unemployment Rate,3.6779677,Percent,Monthly,ABS
+2023-09-30,Unemployment Rate,3.7276304,Percent,Monthly,ABS
+2023-10-31,Unemployment Rate,3.783995,Percent,Monthly,ABS
+2023-11-30,Unemployment Rate,3.838274,Percent,Monthly,ABS
+2023-12-31,Unemployment Rate,3.8859142,Percent,Monthly,ABS
+2024-01-31,Unemployment Rate,3.9227398,Percent,Monthly,ABS
+2024-02-29,Unemployment Rate,3.9480843,Percent,Monthly,ABS
+2024-03-31,Unemployment Rate,3.9679258,Percent,Monthly,ABS
+2024-04-30,Unemployment Rate,3.9919312,Percent,Monthly,ABS
+2024-05-31,Unemployment Rate,4.0260184,Percent,Monthly,ABS
+2024-06-30,Unemployment Rate,4.0597313,Percent,Monthly,ABS
+2024-07-31,Unemployment Rate,4.0802065,Percent,Monthly,ABS
+2024-08-31,Unemployment Rate,4.0795292,Percent,Monthly,ABS
+2024-09-30,Unemployment Rate,4.0624497999999996,Percent,Monthly,ABS
+2024-10-31,Unemployment Rate,4.0428098,Percent,Monthly,ABS
+2024-11-30,Unemployment Rate,4.0297891,Percent,Monthly,ABS
+2024-12-31,Unemployment Rate,4.0242553,Percent,Monthly,ABS
+2025-01-31,Unemployment Rate,4.0327381,Percent,Monthly,ABS
+2025-02-28,Unemployment Rate,4.0586883,Percent,Monthly,ABS
+2025-03-31,Unemployment Rate,4.0954843,Percent,Monthly,ABS
+2025-04-30,Unemployment Rate,4.1382294,Percent,Monthly,ABS
+2025-05-31,Unemployment Rate,4.1853306,Percent,Monthly,ABS
+2025-06-30,Unemployment Rate,4.2338715,Percent,Monthly,ABS
+2025-07-31,Unemployment Rate,4.2807078,Percent,Monthly,ABS
+2025-08-31,Unemployment Rate,4.3137463,Percent,Monthly,ABS
+2025-09-30,Unemployment Rate,4.3233806,Percent,Monthly,ABS
+2025-10-31,Unemployment Rate,4.3043553,Percent,Monthly,ABS
+2025-11-30,Unemployment Rate,4.2612911,Percent,Monthly,ABS
+2025-12-31,Unemployment Rate,4.2051581,Percent,Monthly,ABS
+2026-01-31,Unemployment Rate,4.1474924,Percent,Monthly,ABS
+1997-09-30,Wage Price Index,67.4,Index,Quarterly,ABS
+1997-12-31,Wage Price Index,67.9,Index,Quarterly,ABS
+1998-03-31,Wage Price Index,68.5,Index,Quarterly,ABS
+1998-06-30,Wage Price Index,68.8,Index,Quarterly,ABS
+1998-09-30,Wage Price Index,69.6,Index,Quarterly,ABS
+1998-12-31,Wage Price Index,70.0,Index,Quarterly,ABS
+1999-03-31,Wage Price Index,70.4,Index,Quarterly,ABS
+1999-06-30,Wage Price Index,70.8,Index,Quarterly,ABS
+1999-09-30,Wage Price Index,71.5,Index,Quarterly,ABS
+1999-12-31,Wage Price Index,71.9,Index,Quarterly,ABS
+2000-03-31,Wage Price Index,72.4,Index,Quarterly,ABS
+2000-06-30,Wage Price Index,72.9,Index,Quarterly,ABS
+2000-09-30,Wage Price Index,73.8,Index,Quarterly,ABS
+2000-12-31,Wage Price Index,74.4,Index,Quarterly,ABS
+2001-03-31,Wage Price Index,75.1,Index,Quarterly,ABS
+2001-06-30,Wage Price Index,75.5,Index,Quarterly,ABS
+2001-09-30,Wage Price Index,76.4,Index,Quarterly,ABS
+2001-12-31,Wage Price Index,76.9,Index,Quarterly,ABS
+2002-03-31,Wage Price Index,77.4,Index,Quarterly,ABS
+2002-06-30,Wage Price Index,77.9,Index,Quarterly,ABS
+2002-09-30,Wage Price Index,79.0,Index,Quarterly,ABS
+2002-12-31,Wage Price Index,79.5,Index,Quarterly,ABS
+2003-03-31,Wage Price Index,80.1,Index,Quarterly,ABS
+2003-06-30,Wage Price Index,80.5,Index,Quarterly,ABS
+2003-09-30,Wage Price Index,81.4,Index,Quarterly,ABS
+2003-12-31,Wage Price Index,82.2,Index,Quarterly,ABS
+2004-03-31,Wage Price Index,82.7,Index,Quarterly,ABS
+2004-06-30,Wage Price Index,83.2,Index,Quarterly,ABS
+2004-09-30,Wage Price Index,84.3,Index,Quarterly,ABS
+2004-12-31,Wage Price Index,85.1,Index,Quarterly,ABS
+2005-03-31,Wage Price Index,85.8,Index,Quarterly,ABS
+2005-06-30,Wage Price Index,86.5,Index,Quarterly,ABS
+2005-09-30,Wage Price Index,87.6,Index,Quarterly,ABS
+2005-12-31,Wage Price Index,88.4,Index,Quarterly,ABS
+2006-03-31,Wage Price Index,89.3,Index,Quarterly,ABS
+2006-06-30,Wage Price Index,90.0,Index,Quarterly,ABS
+2006-09-30,Wage Price Index,90.9,Index,Quarterly,ABS
+2006-12-31,Wage Price Index,91.7,Index,Quarterly,ABS
+2007-03-31,Wage Price Index,92.7,Index,Quarterly,ABS
+2007-06-30,Wage Price Index,93.5,Index,Quarterly,ABS
+2007-09-30,Wage Price Index,94.7,Index,Quarterly,ABS
+2007-12-31,Wage Price Index,95.7,Index,Quarterly,ABS
+2008-03-31,Wage Price Index,96.6,Index,Quarterly,ABS
+2008-06-30,Wage Price Index,97.6,Index,Quarterly,ABS
+2008-09-30,Wage Price Index,98.7,Index,Quarterly,ABS
+2008-12-31,Wage Price Index,99.8,Index,Quarterly,ABS
+2009-03-31,Wage Price Index,100.5,Index,Quarterly,ABS
+2009-06-30,Wage Price Index,101.0,Index,Quarterly,ABS
+2009-09-30,Wage Price Index,101.8,Index,Quarterly,ABS
+2009-12-31,Wage Price Index,102.3,Index,Quarterly,ABS
+2010-03-31,Wage Price Index,103.1,Index,Quarterly,ABS
+2010-06-30,Wage Price Index,103.8,Index,Quarterly,ABS
+2010-09-30,Wage Price Index,105.4,Index,Quarterly,ABS
+2010-12-31,Wage Price Index,106.3,Index,Quarterly,ABS
+2011-03-31,Wage Price Index,107.2,Index,Quarterly,ABS
+2011-06-30,Wage Price Index,107.8,Index,Quarterly,ABS
+2011-09-30,Wage Price Index,109.3,Index,Quarterly,ABS
+2011-12-31,Wage Price Index,110.3,Index,Quarterly,ABS
+2012-03-31,Wage Price Index,111.2,Index,Quarterly,ABS
+2012-06-30,Wage Price Index,112.0,Index,Quarterly,ABS
+2012-09-30,Wage Price Index,113.3,Index,Quarterly,ABS
+2012-12-31,Wage Price Index,114.1,Index,Quarterly,ABS
+2013-03-31,Wage Price Index,114.7,Index,Quarterly,ABS
+2013-06-30,Wage Price Index,115.3,Index,Quarterly,ABS
+2013-09-30,Wage Price Index,116.4,Index,Quarterly,ABS
+2013-12-31,Wage Price Index,117.0,Index,Quarterly,ABS
+2014-03-31,Wage Price Index,117.7,Index,Quarterly,ABS
+2014-06-30,Wage Price Index,118.2,Index,Quarterly,ABS
+2014-09-30,Wage Price Index,119.3,Index,Quarterly,ABS
+2014-12-31,Wage Price Index,119.9,Index,Quarterly,ABS
+2015-03-31,Wage Price Index,120.3,Index,Quarterly,ABS
+2015-06-30,Wage Price Index,120.8,Index,Quarterly,ABS
+2015-09-30,Wage Price Index,121.8,Index,Quarterly,ABS
+2015-12-31,Wage Price Index,122.3,Index,Quarterly,ABS
+2016-03-31,Wage Price Index,122.7,Index,Quarterly,ABS
+2016-06-30,Wage Price Index,123.1,Index,Quarterly,ABS
+2016-09-30,Wage Price Index,124.1,Index,Quarterly,ABS
+2016-12-31,Wage Price Index,124.5,Index,Quarterly,ABS
+2017-03-31,Wage Price Index,124.9,Index,Quarterly,ABS
+2017-06-30,Wage Price Index,125.4,Index,Quarterly,ABS
+2017-09-30,Wage Price Index,126.4,Index,Quarterly,ABS
+2017-12-31,Wage Price Index,126.9,Index,Quarterly,ABS
+2018-03-31,Wage Price Index,127.4,Index,Quarterly,ABS
+2018-06-30,Wage Price Index,127.9,Index,Quarterly,ABS
+2018-09-30,Wage Price Index,129.2,Index,Quarterly,ABS
+2018-12-31,Wage Price Index,129.8,Index,Quarterly,ABS
+2019-03-31,Wage Price Index,130.3,Index,Quarterly,ABS
+2019-06-30,Wage Price Index,130.8,Index,Quarterly,ABS
+2019-09-30,Wage Price Index,132.0,Index,Quarterly,ABS
+2019-12-31,Wage Price Index,132.6,Index,Quarterly,ABS
+2020-03-31,Wage Price Index,133.1,Index,Quarterly,ABS
+2020-06-30,Wage Price Index,133.0,Index,Quarterly,ABS
+2020-09-30,Wage Price Index,133.7,Index,Quarterly,ABS
+2020-12-31,Wage Price Index,134.4,Index,Quarterly,ABS
+2021-03-31,Wage Price Index,135.1,Index,Quarterly,ABS
+2021-06-30,Wage Price Index,135.5,Index,Quarterly,ABS
+2021-09-30,Wage Price Index,136.8,Index,Quarterly,ABS
+2021-12-31,Wage Price Index,137.6,Index,Quarterly,ABS
+2022-03-31,Wage Price Index,138.3,Index,Quarterly,ABS
+2022-06-30,Wage Price Index,139.2,Index,Quarterly,ABS
+2022-09-30,Wage Price Index,141.5,Index,Quarterly,ABS
+2022-12-31,Wage Price Index,142.6,Index,Quarterly,ABS
+2023-03-31,Wage Price Index,143.6,Index,Quarterly,ABS
+2023-06-30,Wage Price Index,144.5,Index,Quarterly,ABS
+2023-09-30,Wage Price Index,147.5,Index,Quarterly,ABS
+2023-12-31,Wage Price Index,148.6,Index,Quarterly,ABS
+2024-03-31,Wage Price Index,149.5,Index,Quarterly,ABS
+2024-06-30,Wage Price Index,150.4,Index,Quarterly,ABS
+2024-09-30,Wage Price Index,152.6,Index,Quarterly,ABS
+2024-12-31,Wage Price Index,153.6,Index,Quarterly,ABS
+2025-03-31,Wage Price Index,154.5,Index,Quarterly,ABS
+2025-06-30,Wage Price Index,155.4,Index,Quarterly,ABS
+2025-09-30,Wage Price Index,157.6,Index,Quarterly,ABS
+2025-12-31,Wage Price Index,158.7,Index,Quarterly,ABS
