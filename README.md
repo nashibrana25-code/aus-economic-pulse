@@ -2,8 +2,6 @@
 
 > **Automated AU macro-indicators pipeline** — Python ETL pulls live data from the ABS & RBA, builds a tidy weekly dataset, and powers an interactive Power BI dashboard. Fully automated via GitHub Actions with zero manual steps.
 
-An automated Python ETL pipeline that pulls Australian macroeconomic data from the ABS and RBA, cleans it into a Power BI-ready dataset, and refreshes it weekly via GitHub Actions.
-
 ---
 
 ## What This Project Does
