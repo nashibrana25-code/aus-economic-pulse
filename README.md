@@ -94,7 +94,9 @@ The workflow in [.github/workflows/update-data.yml](.github/workflows/update-dat
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](assets/powerbi-dashboard.png)
+![Dashboard 1](assets/powerbi-dashboard.png)
+![Dashboard 2](assets/powerbi-dashboard_2.png)
+![Dashboard 3](assets/powerbi-dashboard_3.png)
 
 *Connect Power BI Desktop to `data/clean/economic_indicators.csv` using Get Data → Text/CSV.*
 
