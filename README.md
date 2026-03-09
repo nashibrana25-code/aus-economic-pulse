@@ -1,5 +1,7 @@
 # Australia Economic Pulse Dashboard
 
+> **Automated AU macro-indicators pipeline** — Python ETL pulls live data from the ABS & RBA, builds a tidy weekly dataset, and powers an interactive Power BI dashboard. Fully automated via GitHub Actions with zero manual steps.
+
 An automated Python ETL pipeline that pulls Australian macroeconomic data from the ABS and RBA, cleans it into a Power BI-ready dataset, and refreshes it weekly via GitHub Actions.
 
 ---
@@ -51,7 +53,8 @@ All datasets are sourced directly from official government portals and are freel
 ```bash
 # 1. Create and activate a virtual environment
 python -m venv .venv
-.venv\Scripts\activate        # Windows
+.venv\Scripts\Activate.ps1    # Windows — PowerShell
+.venv\Scripts\activate.bat   # Windows — CMD
 source .venv/bin/activate     # macOS/Linux
 
 # 2. Install dependencies
@@ -89,9 +92,9 @@ The workflow in [.github/workflows/update-data.yml](.github/workflows/update-dat
 
 ---
 
-## Dashboard Preview
+## Power BI Dashboard
 
-![Dashboard Preview](dashboard.png)
+![Power BI Dashboard](assets/powerbi-dashboard.png)
 
 *Connect Power BI Desktop to `data/clean/economic_indicators.csv` using Get Data → Text/CSV.*
 
