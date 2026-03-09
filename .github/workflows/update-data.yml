@@ -37,6 +37,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/raw/ data/clean/
-          git diff --cached --quiet || git commit -m "chore: update economic data [skip ci]"
-          git push
+          git add data/clean/
+          git add -f data/raw/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update economic data [skip ci]"
+            git push
+          fi
