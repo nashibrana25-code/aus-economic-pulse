@@ -21,6 +21,7 @@ date,indicator,value,unit,frequency,source
 2025-12-31,CPI,100.01,Index,Quarterly,ABS
 2025-12-31,CPI,100.97,Index,Quarterly,ABS
 2026-03-31,CPI,101.33,Index,Quarterly,ABS
+2026-03-31,CPI,101.31,Index,Quarterly,ABS
 1990-02-28,Cash Rate Target,-0.5,Percent,Monthly,RBA
 1990-08-31,Cash Rate Target,-1.0,Percent,Monthly,RBA
 1990-10-31,Cash Rate Target,-1.0,Percent,Monthly,RBA
