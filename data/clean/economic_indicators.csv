@@ -118,6 +118,7 @@ date,indicator,value,unit,frequency,source
 2025-08-31,Cash Rate Target,-0.25,Percent,Monthly,RBA
 2026-02-28,Cash Rate Target,0.25,Percent,Monthly,RBA
 2026-03-31,Cash Rate Target,0.25,Percent,Monthly,RBA
+2026-05-31,Cash Rate Target,0.25,Percent,Monthly,RBA
 1959-12-31,GDP,1.1,$ Million,Quarterly,ABS
 1960-03-31,GDP,1.3,$ Million,Quarterly,ABS
 1960-06-30,GDP,1.3,$ Million,Quarterly,ABS
